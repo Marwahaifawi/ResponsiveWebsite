@@ -25,3 +25,7 @@ The files in this repository are organized as follows:
 ## Contributing
 
 If you want to contribute to the website, you can fork the repository and make changes to the files. Once you have made your changes, you can submit a pull request. Your changes will be reviewed, and if they are approved, they will be merged into the main branch.
+
+## Deployment
+
+You can find the deployed version of this project at: [https://marwahaifawi.github.io/ResponsiveWebsite/]
