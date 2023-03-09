@@ -1,5 +1,6 @@
 
 # Living the Simple Life Website
+<img align="right" width=400 src="https://i.pinimg.com/originals/32/af/69/32af69c7565553f7f385f55b3e7f9ac6.gif">
 
 Living the Simple Life Website is a blog exploring minimalism in life that has been designed and developed using HTML and CSS. The website has been optimized to be viewed on multiple devices such as desktop computers, laptops, tablets, and smartphones.
 
